@@ -11,7 +11,7 @@ During the Master's degree, I was able to range from the basis of cybersecurity,
 I was also able to develop knowledge on cybersecurity related threats, in particular into automotive sector, where I've developed an interesting research about <b>security challenges in Charge-While-Driving Wireless Power Transfer for electric vehicles</b>.
 <!--longlonglonglonglonglonglonglongwait -->
 Then, for my Master Thesis works, I focused on Autonomous Vehicles secure communications, by defining a lightweight approach that implements <b>contextual based attack detection and resiliency policies</b>. <a href="https://github.com/lorentz9819/Attack-Detection-and-Resiliency-Policies-for-AV-Platoons"> Take a look</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="https://www.linkedin.com/in/lorenzo-costantini-39bba9267">Linkedin</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="https://www.linkedin.com/in/lorenzo-costantini-39bba9267">Linkedin</a> <br> <a href="https://github.com/lorentz9819">GitHub</a> and <br> <a href="link3">Profile3</a>.</p>
 You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an <!-- longlonglongcomment --><a href="mailto:lory120698@gmail.com?">Email</a>.
 
 <p>Cheers!</p>
