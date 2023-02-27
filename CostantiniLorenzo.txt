@@ -2,10 +2,15 @@
 <span id="a">lorenzo@costantini</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->me.txt<br/><br/>
 My favorite code quote, "<span id="k">The human brain is amazing. It functions 24/7 from the day we're born and only stops when you're writing code or speaking to someone attractive</span>". <!-- sjkfhskjf -->
 
-Hey There! This is my portfolio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I received my <b>Master's Degree in Cybersecurity</b> from the University of Padua, Italy, in February 2023. I am part of the </b><a href="https://spritz.math.unipd.it/index.html">SPRITZ Security and Privacy Research Group</a></b> under the supervision of the Professor Mauro Conti.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>My Master Thesis works focused on Autonomous Vehicles secure communications, by defining a lightweight approach that implements <b>contextual based attack detection and resiliency policies</b>. <a href="https://github.com/lorentz9819/Attack-Detection-and-Resiliency-Policies-for-AV-Platoons"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+Hey There! I'm Lorenzo Costantini and this is my portfolio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>I received my <b>Bachelor's Degree in Computer Engineering</b> from the University of Padua, Italy, in November 2020.
+Therefore, my journey continued by enrolling in <b>Master's Degree Course in Cybersecurity</b> offered by the University of Padua, in which I graduated in February 2023. 
+I am part of the </b><a href="https://spritz.math.unipd.it/index.html">SPRITZ Security and Privacy Research Group</a></b> under the supervision of the Professor Mauro Conti.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+
+<p> In these years, I've deveolped knowledge about the intrisic features of coding, by approaching different languages and by applying them to various scenarios. Then, I had the opportunity to use what learned and developed in the Bachelor's Degree to expand the knowledge in the cybersecurity scope, one of my biggest interests.
+During the Master's degree, I was able to range from the basis of cybersecurity, by learning for example the albebraic fundamentals of encryption or the idea behind an handshake protocol, up to being able to work by hand on some realistic attacks scenarios, both from the attacker, both from the defender prospective.
+I was also able to develop knowledge on cybersecurity related threats, in particular into automotive sector, where I've developed an interesting research about security challenges in Charge-While-Driving Wireless Power Transfer for electric vehicles.
+Then, for my Master Thesis works, I focused on Autonomous Vehicles secure communications, by defining a lightweight approach that implements <b>contextual based attack detection and resiliency policies</b>. <a href="https://github.com/lorentz9819/Attack-Detection-and-Resiliency-Policies-for-AV-Platoons"> Take a look</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
 You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="Your email ID">Email</a>.
