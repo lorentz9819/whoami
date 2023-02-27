@@ -5,7 +5,7 @@ My favorite code quote, "<span id="k">The human brain is amazing. It functions 2
 Hey There! I'm Lorenzo Costantini and this is my portfolio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I received my <b>Bachelor's Degree in Computer Engineering</b> from the University of Padua, Italy, in November 2020.
 Therefore, my journey continued by enrolling in <b>Master's Degree Course in Cybersecurity</b> offered by the University of Padua, in which I graduated in February 2023. 
-I am part of the </b><a href="https://spritz.math.unipd.it/index.html">SPRITZ Security and Privacy Research Group</a></b> under the supervision of the Professor Mauro Conti.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+I am part of the </b><a href="https://spritz.math.unipd.it/index.html">SPRITZ Security and Privacy Research Group</a></b> under the supervision of the Professor Mauro Conti.</p> 
 
 <p> In these years, I've deveolped knowledge about the intrisic features of coding, by approaching different languages and by applying them to various scenarios. Then, I had the opportunity to use what learned and developed in the Bachelor's Degree to expand the knowledge in the cybersecurity scope, one of my biggest interests.
 During the Master's degree, I was able to range from the basis of cybersecurity, by learning for example the albebraic fundamentals of encryption or the idea behind an handshake protocol, up to being able to work by hand on some realistic attacks scenarios, both from the attacker, both from the defender prospective.
