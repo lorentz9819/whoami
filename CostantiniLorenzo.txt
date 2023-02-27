@@ -1,4 +1,4 @@
-<span id="a">lorenzo@costantini</span>:<span id="b">~</span><span id="c">$</span> cd CostantiniLorenzo/<!-- kjsdfhkjdhsfkjdshfkj -->whoami
+<span id="a">lorenzo@costantini</span>:<span id="b">~</span><span id="c">$</span> cd Info/<!-- kjsdfhkjdhsfkjdshfkj -->whoami
 <span id="a">lorenzo@costantini</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->me.txt<br/><br/>
 My favorite code quote, "<span id="k">The human brain is amazing. It functions 24/7 from the day we're born and only stops when you're writing code or speaking to someone attractive</span>". <!-- sjkfhskjf -->
 
