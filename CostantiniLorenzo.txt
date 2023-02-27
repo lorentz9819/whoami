@@ -1,9 +1,9 @@
 <span id="a">lorenzo@costantini</span>:<span id="b">~</span><span id="c">$</span> cd CostantiniLorenzo/<!-- kjsdfhkjdhsfkjdshfkj -->whoami
 <span id="a">lorenzo@costantini</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->me.txt<br/><br/>
-My favorite code quote, "<span id="k">The human brain is amazing. It functions 24/7 from the day we're botn and only stops when you're writing code or speaking to someone attractive.</span>". <!-- sjkfhskjf -->
+My favorite code quote, "<span id="k">The human brain is amazing. It functions 24/7 from the day we're born and only stops when you're writing code or speaking to someone attractive</span>". <!-- sjkfhskjf -->
 
 Hey There! This is my portfolio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I received my Master's Degree in Cybersecurity from the University of Padua, Italy, in February 2023. I am part of the SPRITZ Security and Privacy Research Group under the supervision of the Professor Mauro Conti.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p><b>I received my Master's Degree in Cybersecurity from the University of Padua, Italy, in February 2023. I am part of the SPRITZ Security and Privacy Research Group under the supervision of the Professor Mauro Conti.</b></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
