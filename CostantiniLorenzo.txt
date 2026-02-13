@@ -18,6 +18,5 @@ If you want to know more about my work, you can listen to a short, conversationa
 <a href="https://open.spotify.com/episode/1I78myLemPIamyLCIDAWNh?si=009b4c7c12524fb7">Click here to listen</a>
 <p>Here there's my <b>Curriculum Vitae</b>, for a schematic resume:<a href="https://drive.google.com/file/d/1CUeT_eIgAODjSfBOfaGk8REXmyIQtkVl/view?usp=drivesdk"> Take a look</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can find other information here: <br> <a href="https://www.linkedin.com/in/lorenzo-costantini-39bba9267">Linkedin</a> <br> <a href="https://github.com/lorentz9819">GitHub</a>.</p>
-Then, if you want to contact me, feel free to send me an <!-- longlonglongcomment --><a href="mailto:lory120698@gmail.com?">email</a>.
 
 <p>Cheers!</p>
